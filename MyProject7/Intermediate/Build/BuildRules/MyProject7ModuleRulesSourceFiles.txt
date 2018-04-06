@@ -1,3 +1,0 @@
-C:\Users\vinny\Documents\Unreal Projects\MyProject7\Source\MyProject7\MyProject7.Build.cs
-C:\Users\vinny\Documents\Unreal Projects\MyProject7\Source\MyProject7.Target.cs
-C:\Users\vinny\Documents\Unreal Projects\MyProject7\Source\MyProject7Editor.Target.cs
